@@ -3,7 +3,7 @@ class Epoch < Formula
   homepage "https://github.com/shint-mcguff/epoch"
   url "https://github.com/shint-mcguff/epoch/releases/download/v0.1.0/epoch-v0.1.0-universal-macos.tar.gz"
   # Filled in after the v0.1.0 release asset is built by CI.
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "daec67f2bfbdc950dd508be6cbbdebd7cf2e0e9cf7ae6760d6c8a70dc5160621"
   license "MIT"
   version "0.1.0"
 
